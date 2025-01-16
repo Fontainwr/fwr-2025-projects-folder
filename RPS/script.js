@@ -7,5 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const restartButton = document.getElementById("restart");
 
 
-    
+    choiceButtons.forEach(button => {
+        button.addEventListener("click", () => {
+            const
+        })
+    });
 })
